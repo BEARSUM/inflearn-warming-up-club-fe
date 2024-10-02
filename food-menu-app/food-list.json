@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza-Salami",
+    "description": "An Italian-style pizza topped generously with salami and cheese on a crispy crust.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/12/pizza-salami-close-up.jpg",
+    "price": "24,000",
+    "type": "pizza"
+  },
+  {
+    "id": 2,
+    "name": "Pizza-Basil",
+    "description": "A classic pizza topped with fresh basil leaves, mozzarella cheese, and a rich tomato sauce.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/12/cutting-pizza.jpg",
+    "price": "28,000",
+    "type": "pizza"
+  },
+  {
+    "id": 3,
+    "name": "Hot Chocolate",
+    "description": "A warm and comforting hot chocolate, made with rich cocoa and topped with whipped cream.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/10/hot-chocolate.jpg",
+    "price": "8,000",
+    "type": "dessert"
+  },
+  {
+    "id": 4,
+    "name": "Ice-cream Sundae",
+    "description": "A delicious ice-cream sundae with a variety of toppings including chocolate sauce and sprinkles.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/10/ice-cream-sundae.jpg",
+    "price": "10,000",
+    "type": "dessert"
+  },
+  {
+    "id": 5,
+    "name": "Burger with Melted Cheese",
+    "description": "A juicy beef burger topped with melted cheese, lettuce, and tomato, served in a toasted bun.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+    "price": "18,000",
+    "type": "burger"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Burger",
+    "description": "A crispy chicken burger with lettuce, mayo, and a soft bun for a classic taste.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2024/01/best-burger-in-town.jpg",
+    "price": "16,000",
+    "type": "burger"
+  },
+  {
+    "id": 7,
+    "name": "Bacon Cheese Burger",
+    "description": "A savory burger topped with crispy bacon, melted cheese, and a rich barbecue sauce.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/05/juicy-cheeseburger.jpg",
+    "price": "16,000",
+    "type": "burger"
+  },
+  {
+    "id": 8,
+    "name": "Carrot Raisin Salad",
+    "description": "A refreshing salad made with shredded carrots and plump raisins, tossed in a light dressing.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2024/01/carrot-raisin-salad.jpg",
+    "price": "13,000",
+    "type": "salad"
+  },
+  {
+    "id": 9,
+    "name": "Tomato Salad",
+    "description": "A fresh tomato salad with herbs, olive oil, and a hint of balsamic vinegar.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/09/tomato-salad.jpg",
+    "price": "12,000",
+    "type": "salad"
+  },
+  {
+    "id": 10,
+    "name": "Chickpea Salad",
+    "description": "A healthy chickpea salad mixed with fresh vegetables and a zesty lemon vinaigrette.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/08/chickpea-salad.jpg",
+    "price": "13,000",
+    "type": "salad"
+  },
+  {
+    "id": 11,
+    "name": "Pumpkin Salad",
+    "description": "A flavorful pumpkin salad with feta cheese and seeds, drizzled with a light dressing.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2018/10/pumpkin-salad-with-feta-and-seeds.jpg",
+    "price": "15,000",
+    "type": "salad"
+  },
+  {
+    "id": 12,
+    "name": "Spinach Salad",
+    "description": "A vibrant spinach salad with pomegranate seeds and grilled chicken, perfect for a light meal.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/spinach-pomegranate-and-chicken-salad.jpg",
+    "price": "11,000",
+    "type": "salad"
+  },
+  {
+    "id": 13,
+    "name": "Fresh Fruit Salad",
+    "description": "A colorful mix of fresh seasonal fruits, topped with a touch of mint for extra freshness.",
+    "imageURL": "https://www.foodiesfeed.com/wp-content/uploads/2023/04/fresh-fruit-salad-with-mint.jpg",
+    "price": "12,000",
+    "type": "salad"
+  }
+]
