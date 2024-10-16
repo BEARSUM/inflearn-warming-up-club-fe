@@ -1,0 +1,71 @@
+body {
+  padding: 48px 64px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
+.score {
+  display: flex;
+  gap: 8px;
+}
+
+.score-el {
+  width: 150px;
+  padding: 16px 0;
+  border: 1px solid black;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+  align-items: center;
+
+  & > div:first-child {
+    font-weight: 600;
+  }
+  & > div:last-child {
+    font-size: 24px;
+  }
+}
+
+.button-wrap {
+  margin: 16px 0;
+  display: flex;
+  gap: 8px;
+
+  & > button {
+    border: none;
+    width: 56px;
+    height: 56px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+}
+
+#game-result {
+  margin-top: 24px;
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.final-result {
+  font-size: 24px;
+  color: red;
+}
+
+.restart-button {
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 8px 10px;
+}
